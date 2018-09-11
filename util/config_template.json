@@ -1,0 +1,7 @@
+{
+  "discordKey": "Your Discord API key.",
+  "notificationChannel": "Channel id.",
+  "owner": "Your user id.",
+  "ownerServer": "Your servers id.",
+  "mongoUrl": "The url to your Mongo server."
+}
