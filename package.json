@@ -13,7 +13,7 @@
     "discord.js-commando": "github:discordjs/Commando",
     "moment-timezone": "0.5.21",
     "mongo": "0.1.0",
-    "mongoose": "5.2.13",
+    "mongoose": "5.2.14",
     "require-all": "3.0.0",
     "sqlite3": "4.0.2"
   },
