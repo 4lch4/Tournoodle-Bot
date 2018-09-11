@@ -20,5 +20,5 @@
   },
   "description": "A simple Discord bot using my Tournoodle module.",
   "main": "index.js",
-  "version": "0.0.1"
+  "version": "0.0.2"
 }
